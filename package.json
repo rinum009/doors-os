@@ -1,0 +1,22 @@
+{
+  "name": "doors-os",
+  "version": "0.1.0",
+  "description": "Desktop enviornment in the browser",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "echo \"Error : no test specified\" & exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinum009/doors-os.git"
+  },
+  "author": "Munir Limay",
+  "license": "MIT",
+  "dependencies": {
+    "next": "13.4.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
